@@ -108,4 +108,5 @@ Execute the program
 
 
 # OUPUT
-![output.png](output.png)
+![Screenshot (11)](https://github.com/Yuvan291205/timetable/assets/138849170/97e9bd8c-1a58-4dc7-984e-a7501b98e055)
+
